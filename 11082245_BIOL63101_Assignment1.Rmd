@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Before Reading
 
-The R script and R Markdown file were uploaded to [my GitHub repository](https://github.com/azanghai/UoM_BIOL63101_Assignment_1), where you can view or download my code.
+The R script, R Markdown and this `.html` file were uploaded to [my GitHub repository](https://github.com/azanghai/UoM_BIOL63101_Assignment_1), where you can view or download my code.
 
 **To get the best browsing experience, maximize the browser.**
 
